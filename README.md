@@ -8,3 +8,5 @@ The word "kontore" is a plural form of "[kontor](https://en.wikipedia.org/wiki/K
 The organization icon is the Stralsund Town Hall <sup>\[[German](https://de.wikipedia.org/wiki/Stralsunder_Rathaus)\]</sup>, a Brick Gothic building tied to the Hanseatic League. 
 
 It is obviously a strange icon for any sort of tech organization, but I do plan on changing it. However, I will attempt to redraw the photo into a simpler and more abstract form instead of picking a new icon.
+
+*Note: There is no english version of the German wikipedia page on the Stralsund Town Hall. However, I used Google Translate to produce an imperfect, but good enough [English version](https://de-m-wikipedia-org.translate.goog/wiki/Stralsunder_Rathaus?_x_tr_sl=de&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp).*
